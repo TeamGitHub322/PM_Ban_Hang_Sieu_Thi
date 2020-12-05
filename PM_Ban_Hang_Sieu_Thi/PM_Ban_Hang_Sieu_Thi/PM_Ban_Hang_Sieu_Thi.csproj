@@ -63,6 +63,14 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <None Include="bin\Debug\Huong Dan\Gioi thieu san pham.mht" />
+    <None Include="bin\Debug\Huong Dan\Hang Hoa.mht" />
+    <None Include="bin\Debug\Huong Dan\Hoa Don.mht" />
+    <None Include="bin\Debug\Huong Dan\Khach Hang.mht" />
+    <None Include="bin\Debug\Huong Dan\Nhan Vien.mht" />
+    <None Include="bin\Debug\Huong Dan\Nhom thuc hien.mht" />
+    <None Include="bin\Debug\Huong Dan\Quan Ly Chung.mht" />
+    <None Include="bin\Debug\Huong Dan\~WRL0002.tmp" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
