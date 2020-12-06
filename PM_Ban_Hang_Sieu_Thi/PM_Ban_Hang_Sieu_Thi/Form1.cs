@@ -8,13 +8,31 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace PM_Ban_Hang_Sieu_Thi
+namespace QuanLySieuThi
 {
-     public partial class Form1 : Form
-     {
-          public Form1()
-          {
-               InitializeComponent();
-          }
-     }
+    public partial class frm_Start : Form
+    {
+        public frm_Start()
+        {
+            InitializeComponent();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            //this.Hide();
+            //frmQuanLySieuThi frm = new frmQuanLySieuThi();
+            //frm.ShowDialog();
+            //frm.Close();
+            //frm.Dispose();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            //this.Hide();
+            //frmHuongDan frm = new frmHuongDan();
+            //frm.ShowDialog();
+            //frm.Close();
+            //frm.Dispose();
+        }
+    }
 }
