@@ -1,4 +1,4 @@
-﻿namespace QuanLySieuThi
+﻿namespace PM_Ban_Hang_Sieu_Thi
 {
     partial class frmQuanLySieuThi
     {

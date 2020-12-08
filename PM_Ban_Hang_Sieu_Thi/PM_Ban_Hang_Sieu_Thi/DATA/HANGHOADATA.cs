@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 using System.Data;
 using System.Data.SqlClient;
 
-namespace QuanLySieuThi.DATA
+namespace PM_Ban_Hang_Sieu_Thi.DATA
 {
-    class HANGHOADATA:QuanLySieuThi.APP_DATA.DATA
+    class HANGHOADATA:PM_Ban_Hang_Sieu_Thi.APP_DATA.DATA
     {
               public HANGHOADATA()
         {

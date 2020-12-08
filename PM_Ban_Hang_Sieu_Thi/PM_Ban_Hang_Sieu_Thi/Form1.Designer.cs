@@ -1,4 +1,4 @@
-﻿namespace QuanLySieuThi
+﻿namespace PM_Ban_Hang_Sieu_Thi
 {
     partial class frm_Start
     {
@@ -66,9 +66,11 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
+            this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(795, 533);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
+            this.DoubleBuffered = true;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "frm_Start";

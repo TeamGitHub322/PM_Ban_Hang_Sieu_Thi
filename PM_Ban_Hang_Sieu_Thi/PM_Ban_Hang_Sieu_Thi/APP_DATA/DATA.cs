@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using System.Data;
 using System.Data.SqlClient;
 
-namespace QuanLySieuThi.APP_DATA
+namespace PM_Ban_Hang_Sieu_Thi.APP_DATA
 {
    public class DATA
     {

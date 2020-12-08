@@ -8,7 +8,7 @@ using System.Data.SqlClient;
 using System.Data.Sql;
 using System.Data;
 
-namespace QuanLySieuThi.APP_DATA
+namespace PM_Ban_Hang_Sieu_Thi.APP_DATA
 {
     public class Connector
     {

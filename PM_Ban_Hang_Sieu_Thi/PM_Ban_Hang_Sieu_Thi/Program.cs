@@ -17,7 +17,7 @@ namespace PM_Ban_Hang_Sieu_Thi
           {
                Application.EnableVisualStyles();
                Application.SetCompatibleTextRenderingDefault(false);
-               Application.Run(new Login());
+               Application.Run(new frmQuanLySieuThi());
           }
      }
 }

@@ -34,7 +34,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="DevComponents.DotNetBar2">
-      <HintPath>..\..\..\..\..\Desktop\DevComponents.DotNetBar2.dll</HintPath>
+      <HintPath>F:\TTN-TH248-master\TTN-TH248-master\Bai2-QuanLyTHPT\201Solution\QuanLyTHPT\QuanLyTHPT\res\DevComponents.DotNetBar2.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Configuration" />

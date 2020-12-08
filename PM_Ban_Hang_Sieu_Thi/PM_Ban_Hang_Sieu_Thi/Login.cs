@@ -1,4 +1,4 @@
-﻿using QuanLySieuThi;
+﻿using PM_Ban_Hang_Sieu_Thi;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;

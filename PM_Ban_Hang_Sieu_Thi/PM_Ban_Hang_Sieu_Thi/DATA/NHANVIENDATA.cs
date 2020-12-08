@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace QuanLySieuThi.DATA
+namespace PM_Ban_Hang_Sieu_Thi.DATA
 {
-    public class NHANVIENDATA : QuanLySieuThi.APP_DATA.DATA
+    public class NHANVIENDATA : PM_Ban_Hang_Sieu_Thi.APP_DATA.DATA
     {
         public NHANVIENDATA()
         {

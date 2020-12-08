@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace QuanLySieuThi
+namespace PM_Ban_Hang_Sieu_Thi
 {
     public partial class frm_Start : Form
     {
