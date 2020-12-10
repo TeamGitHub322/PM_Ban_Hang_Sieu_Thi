@@ -1,4 +1,5 @@
-﻿using System;
+﻿using QuanLySieuThi;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -19,20 +20,20 @@ namespace PM_Ban_Hang_Sieu_Thi
 
         private void button1_Click(object sender, EventArgs e)
         {
-            //this.Hide();
-            //frmQuanLySieuThi frm = new frmQuanLySieuThi();
-            //frm.ShowDialog();
-            //frm.Close();
-            //frm.Dispose();
-        }
+               this.Hide();
+               frmQuanLySieuThi frm = new frmQuanLySieuThi();
+               frm.ShowDialog();
+               frm.Close();
+               frm.Dispose();
+          }
 
         private void button2_Click(object sender, EventArgs e)
         {
-            //this.Hide();
-            //frmHuongDan frm = new frmHuongDan();
-            //frm.ShowDialog();
-            //frm.Close();
-            //frm.Dispose();
+               this.Hide();
+               frmHuongDan frm = new frmHuongDan();
+               frm.ShowDialog();
+               frm.Close();
+               frm.Dispose();
         }
     }
 }
